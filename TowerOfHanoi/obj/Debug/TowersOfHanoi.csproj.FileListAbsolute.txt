@@ -1,0 +1,6 @@
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\Towers.exe.config
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\Towers.exe
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\TowerOfHanoi\TowerOfHanoi\bin\Debug\Towers.pdb
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowersOfHanoi.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\Towers.exe
+C:\Users\Krzysiek\Documents\Visual Studio 2015\Projects\TowerOfHanoi\TowerOfHanoi\obj\Debug\Towers.pdb
